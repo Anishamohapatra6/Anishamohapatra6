@@ -4,14 +4,14 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Robotics
-- 🌱 I’m currently learning Deep learning, comupter vision , Machine Learning and Web Development
+- 🔭 I’m currently working on UAM, Robotics, Learning and Controls
+- 🌱 I’m currently learning Deep learning, Robot Learning, Comupter Vision and  Machine Learning 
 - 👯 I’m looking to collaborate on Projects and Hackathons
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anisha-mohapatra-8ba264178/)
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: I Like  -->
+<!-- - ⚡ Fun fact: I Like  --> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anishamohapatra6&hide_border=true&count_private=true&show_icons=true&theme=radical" align="centre">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=Anishamohapatra6&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align ="centre">
