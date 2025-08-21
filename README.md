@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on UAM, Robotics, Learning and Controls
-- 🌱 I’m currently learning Deep learning, Robot Learning, Comupter Vision and  Machine Learning 
+- 🌱 I’m currently learning Deep learning, Robot Learning, Computer Vision and  Machine Learning 
 - 👯 I’m looking to collaborate on Projects and Hackathons
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
